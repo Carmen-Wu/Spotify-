@@ -5,9 +5,9 @@ Original App Design Project - README Template
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+3. [Product Spec](#Product-Spec)
+4. [Wireframes](#Wireframes)
+5. [Schema](#Schema)
 
 ## Overview
 ### Description
@@ -29,34 +29,52 @@ Original App Design Project - README Template
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-* ...
+
+*User can login
+*Authencicate the existing account
+*Users can make a new account
+*Users can choose what to access(Mood, Properties, Context)
+*User can access the mood of the songs on their playlist 
+*User can view their profile
+*User can create a post related to the current music they are listening to and link the song/playlist
+
+
 
 **Optional Nice-to-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* User can follow others
+* User can view their friends playlist
+* User can search for the most energetic song(ex: tempo)
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* Login
    * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+   * user can login
+* Register a new account
+   * user can register a new account 
+   *Profile
+   * User can scroll through their own profile
+   *Creation
+   User can add a piece of information 
+   *Detail 
+   * User can view the detailed features of each playlist 
+   
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Stream 
+* Profile
+* Create
+* 
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
+* Profile
+   * Details
    * ...
 * [list second screen here]
    * [list screen navigation here]
